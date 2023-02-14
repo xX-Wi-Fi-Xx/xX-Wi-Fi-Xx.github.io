@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+The eternal dilema of making this college/employer friendly or making it good. <sub>may god have mercy on whatever poor soul has to read this</sub>
