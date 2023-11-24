@@ -4,8 +4,33 @@
 
 
 ### Wifis First Build
-<img src="![IMG_20220801_170322549](https://github.com/xX-Wi-Fi-Xx/xX-Wi-Fi-Xx.github.io/assets/103215175/3a7033e3-7c02-4aa8-9c6c-63165e16ce29)" width="150" height="280">
+<img src="https://github.com/xX-Wi-Fi-Xx/xX-Wi-Fi-Xx.github.io/blob/main/css/assets/IMG_20220801_170322549.jpg?raw=true" width=50% height=50%>
+
 This was my first build, a basic tazer from a youtube tutorial.
 
-### Wifis First Video
+
+### Automatic Radio Jammer 
+<img src="" width=50% height=50%>
+
+This is one of my first builds with the raspberry pi, like most builds from this era, it used lots of copied repositorys and very little editing/coding of my own.
+
+
+### Nerf Plasma Rifle
+<img src="https://github.com/xX-Wi-Fi-Xx/xX-Wi-Fi-Xx.github.io/blob/main/css/assets/IMG_20230528_144519778.jpg?raw=true" width=50% height=50%>
+
+This is about what it sounds, a preasurised tube of propane which would shoot out of a modified nerf barrel with a tazer ignition system. like a potato cannon with more flame.
+
+
+
+### Cattle Prod
+<img src="https://github.com/xX-Wi-Fi-Xx/xX-Wi-Fi-Xx.github.io/blob/main/css/assets/IMG_20220906_200951370.jpg?raw=true" width=50% height=50%>
+
+This was a big step for me as this was the first build i ever made without a tutorial. Later turned into the *eletric* Guitar which tazed people. (no documentation)
+
+
+
+
+
+
+
 
