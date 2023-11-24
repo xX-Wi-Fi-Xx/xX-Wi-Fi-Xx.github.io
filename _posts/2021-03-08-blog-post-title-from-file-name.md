@@ -10,7 +10,7 @@ This was my first build, a basic tazer from a youtube tutorial.
 
 
 ### Automatic Radio Jammer 
-<img src="" width=50% height=50%>
+<img src="https://github.com/xX-Wi-Fi-Xx/xX-Wi-Fi-Xx.github.io/blob/main/css/assets/DSC_0271.JPG?raw=true" width=50% height=50%>
 
 This is one of my first builds with the raspberry pi, like most builds from this era, it used lots of copied repositorys and very little editing/coding of my own.
 
