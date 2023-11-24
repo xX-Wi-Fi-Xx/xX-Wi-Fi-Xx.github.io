@@ -4,7 +4,7 @@
 
 
 ### Wifis First Build
-<img src="https://github.com/xX-Wi-Fi-Xx/xX-Wi-Fi-Xx.github.io/blob/main/css/assets/IMG_20220801_170322549.jpg?raw=true" width=50% height=50%>
+<img src="https://github.com/xX-Wi-Fi-Xx/xX-Wi-Fi-Xx.github.io/blob/main/css/assets/IMG_20220801_170322549.jpg?raw=true" width=25% height=25%>
 
 This was my first build, a basic tazer from a youtube tutorial.
 
